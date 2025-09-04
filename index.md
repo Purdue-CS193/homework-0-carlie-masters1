@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Carlie's Website
+
+This is my **website**!
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,9 +28,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#Carlie's Website
-
-This is my new website!
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
