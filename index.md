@@ -1,9 +1,9 @@
-#Carlie's First CS193 Homework
+# Carlie's First CS193 Homework
 
-a- Reading
-a- Tacos
-a- Dogs
-a- Sunshine
+- Reading
+- Tacos
+- Dogs
+- Sunshine
 
 
 
